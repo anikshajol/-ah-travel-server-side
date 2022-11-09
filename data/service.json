@@ -1,0 +1,126 @@
+[
+  {
+    "id": "01",
+    "img": "https://prod-media-eng.dhakatribune.com/uploads/2020/09/9-new-project-1599296482873.jpg",
+    "price": 8999,
+    "placeName": "Sundarban",
+    "title": "Sundarban Tour Package",
+    "rating": 4.5,
+    "details": "Sundarbans is the world's largest mangrove forest, UNESCO World Heritage Site. When you are too bored with the hustle and bustle of the city, you can visit the Sundarbans. There is a Quote 'Talk to the forest because the forest always talks to you'. The entire forest consists of marine currents, small rivers, canals, mudflats. Different species of birds and reptiles including tigers, deers, crocodiles, monkeys, pythons can be seen in open environment with your own eyes. Our specialty is we are focusing on family tour. And We are planning our tour keep thinking about Female and Kids.",
+    "tour_cost": [
+      {
+        "regular": "8999/person (3/4 person shared cabin)"
+      },
+      {
+        "personal": "10500/person (Couple/twin cabin)"
+      },
+      {
+        "luxurious": "11500/(Attach bath cabin)"
+      }
+    ],
+
+    "tourist_places": [
+      "Koromjol",
+      "Tiger Point",
+      "Kochikhali",
+      "Dimer Chor",
+      "Jamtola Sea Beach",
+      "Tiger Tela",
+      "Harbaria Setu",
+      "Crocodile Project"
+    ]
+  },
+
+  {
+    "id": "02",
+    "img": "https://adarbepari.com/wp-content/uploads/2016/08/inani-beach-coxsbazar-02.jpg",
+    "price": 7999,
+    "placeName": "Cox's Bazar",
+    "title": "Cox's Bazar Tour Package",
+    "rating": 4.5,
+    "details": "When the thought of traveling inside Bangladesh comes to mind, the first thing that comes to mind is Cox's Bazar. Not only domestic tourists, but also many tourists from outside the country visit this world's largest beach every year. Shravan's face has changed days. Have you seen the ocean soaking in the rain? This is a different kind of beauty. A different kind of fun. To enjoy this pleasure, you can go to Cox's Bazar, the longest beach in the world. It will not be wrong to call Cox's Bazar the tourism capital of Bengal. The number of tourists who travel to Cox's Bazar every year is 2 third of the total number of tourists in Bangladesh.",
+    "tour_cost": [
+      {
+        "regular": "5600/person (3/4 person shared Room)"
+      },
+      {
+        "personal": "8500/person (Couple/twin Room)"
+      },
+      {
+        "luxurious": "9500/(Sea view Room)"
+      }
+    ],
+    "tourist_places": [
+      "Laboni Point",
+      "Himchori",
+      "Inani Beach",
+      "Ramu",
+      "Marine view",
+      "Moheshkhali",
+      "Radient Fish World"
+    ]
+  },
+  {
+    "id": "03",
+    "img": "https://info.ehl.edu/hubfs/Nine%20Arch%20Bridge%20Sri%20Lanka.jpg",
+    "price": 17999,
+    "placeName": "Srilanka",
+    "title": "Srilanka Tour Package",
+    "rating": 4.5,
+    "details": "Srilanka (Srilanka), originally named Ceylon, is an island nation in South Asia. A very popular destination name in the travel world today. Its administrative capital is Sri Jayawardenepura Kotte. Its main city is Colombo. Sri Lanka is famous for production and export of tea, coffee, coconut, rubber. Beaches with breathtaking natural beauty, landscapes and rich cultural heritage make Sri Lanka very attractive to tourists from all over the world.Some of the notable places to visit in Sri Lanka are Colombo, Anuradhapura, Kandy, Polonnaruwa, Adam's Peak, Sigaria Rock, National Museum of Sri Lanka etc. One of the tourist attractions in Sri Lanka is the Kelanya Raja Mahavihara Buddha Temple located in Colombo. Every January in the month of January religious ceremony Perahera is held in this temple.Don't forget to visit Kandy when visiting Sri Lanka. The Temple of Tooth, The Old Well Palace Compound, Lankatilka Temple, Embeka Temple are must-see places. Kandy is called the cultural capital of Sri Lanka.Since Sri Lanka is located in this subcontinent, the cost of visiting Sri Lanka is less than many other countries. Those who want to come from Dhaka by air can use Mihin Lanka Air Lines. It is a Sri Lankan aircraft. Besides, you can come through India without coming directly to Sri Lanka. If you want to come like this, you have to go to Chennai by train from Kolkata and then go to Colombo by plane. After arriving in Colombo, you can go anywhere in Sri Lanka by bus or train. Or it is much easier to come to Colombo via Delhi on Jet Airways.",
+
+    "tourist_places": [
+      "Colombo",
+      "Anuradhapura",
+      "Kandy",
+      "Polonnaruwa",
+      "Adams",
+      "Peak",
+      "Sigaria",
+      "Rock",
+      "National",
+      "Museum of SriLanka"
+    ],
+
+    "tour_cost": [
+      {
+        "regular": "26000/person (3/4 person shared Room)"
+      },
+      {
+        "personal": "30000/person (Couple/twin Room)"
+      }
+    ]
+  },
+  {
+    "id": "04",
+    "img": "https://adarbepari.com/wp-content/uploads/2016/10/bali-indonesia-02.jpg",
+    "price": 19999,
+    "placeName": "Indonesia",
+    "title": "Bali Tour Package",
+    "rating": 4.5,
+
+    "details": "Bali Island is located in Indonesia. It is only 2 kilometers from Java and lies 8 to 9 degrees south of the equator. The island of Bali is popular among tourists from all over the world. Bali is quite different from the rest of Indonesia and is a province. It has its own government, but the Jakarta-based government controls the economy to a high degree. The island's Balinese culture is a major attraction for tourists. This culture, passed through the region, was influenced by many cultures, especially those of Europe, China and India.A notable attraction is that the island has also shown innovative capacity in influencing its tourists, but technological progress in Bali has been slow. Although hotels, restaurants and other public places are of high quality, fast and reliable connectivity cannot be promised in these areas. Despite this fact, the island of Bali is actually very popular in terms of tourism and especially honeymoons. Many honeymooners and romantic couples love this area for their vacation.",
+
+    "tour_cost": [
+      {
+        "regular": "29900/person (3/4 person shared Room)"
+      },
+      {
+        "personal": "35000/person (Couple/twin Room)"
+      }
+    ],
+
+    "tourist_places": [
+      "Handara Gate",
+      "sand swing",
+      "Ulun Danu Temple",
+      "GitGit Twin Waterfall",
+      "Ubud-Ubud is the name of a village in Bali. Ubud has become so popular in the last few years that the village vibe has died down a bit. A lot of Europeans come to Ubud. It lasts for months. Ubud has many temples, rice terraces and fountains. Some of the temples in Ubud are believed by the Balinese to wash away their sins by bathing in these temples.",
+      "Tanah Lot-Numerous temples in Bali. However, Tanah Lot Temple is prominent among them. The temple is said to have been built in 1600 AD at Tanah Lot to protect it from volcanic eruptions. The temple is built on a huge rock in the sea. At high tide, much of the temple goes under water, making it appear as if it had risen from the sea. The temple along with the foundation is visible during low tide. There is an entrance fee to enter the temple. It was late afternoon when I reached Tanah Lot Temple, 28 km from Ubud. I went to that temple after crossing the sea water. The sunset from there is an incredibly beautiful view.",
+      "Garuda Vishnu Kanchana",
+      "Nusa Dua Beach",
+      "Padang Padang Beach",
+      "Uluwatu Temple-Uluwatu Temple is a very beautiful place. It is not just a temple. A whole big area. A very beautiful view of Uluwatu Beach can be seen from here. 30 thousand rupees means 180 taka to enter here. Must see sunset here."
+    ]
+  }
+]
