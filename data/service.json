@@ -1,6 +1,5 @@
 [
   {
-    "id": "01",
     "img": "https://prod-media-eng.dhakatribune.com/uploads/2020/09/9-new-project-1599296482873.jpg",
     "price": 8999,
     "placeName": "Sundarban",
@@ -9,12 +8,10 @@
     "details": "Sundarbans is the world's largest mangrove forest, UNESCO World Heritage Site. When you are too bored with the hustle and bustle of the city, you can visit the Sundarbans. There is a Quote 'Talk to the forest because the forest always talks to you'. The entire forest consists of marine currents, small rivers, canals, mudflats. Different species of birds and reptiles including tigers, deers, crocodiles, monkeys, pythons can be seen in open environment with your own eyes. Our specialty is we are focusing on family tour. And We are planning our tour keep thinking about Female and Kids.",
     "tour_cost": [
       {
-        "regular": "8999/person (3/4 person shared cabin)"
-      },
-      {
-        "personal": "10500/person (Couple/twin cabin)"
-      },
-      {
+        "regular": "8999/person (3/4 person shared cabin)",
+
+        "personal": "10500/person (Couple/twin cabin)",
+
         "luxurious": "11500/(Attach bath cabin)"
       }
     ],
@@ -32,7 +29,6 @@
   },
 
   {
-    "id": "02",
     "img": "https://adarbepari.com/wp-content/uploads/2016/08/inani-beach-coxsbazar-02.jpg",
     "price": 7999,
     "placeName": "Cox's Bazar",
@@ -41,12 +37,10 @@
     "details": "When the thought of traveling inside Bangladesh comes to mind, the first thing that comes to mind is Cox's Bazar. Not only domestic tourists, but also many tourists from outside the country visit this world's largest beach every year. Shravan's face has changed days. Have you seen the ocean soaking in the rain? This is a different kind of beauty. A different kind of fun. To enjoy this pleasure, you can go to Cox's Bazar, the longest beach in the world. It will not be wrong to call Cox's Bazar the tourism capital of Bengal. The number of tourists who travel to Cox's Bazar every year is 2 third of the total number of tourists in Bangladesh.",
     "tour_cost": [
       {
-        "regular": "5600/person (3/4 person shared Room)"
-      },
-      {
-        "personal": "8500/person (Couple/twin Room)"
-      },
-      {
+        "regular": "5600/person (3/4 person shared Room)",
+
+        "personal": "8500/person (Couple/twin Room)",
+
         "luxurious": "9500/(Sea view Room)"
       }
     ],
@@ -61,7 +55,6 @@
     ]
   },
   {
-    "id": "03",
     "img": "https://info.ehl.edu/hubfs/Nine%20Arch%20Bridge%20Sri%20Lanka.jpg",
     "price": 17999,
     "placeName": "Srilanka",
@@ -84,15 +77,14 @@
 
     "tour_cost": [
       {
-        "regular": "26000/person (3/4 person shared Room)"
-      },
-      {
-        "personal": "30000/person (Couple/twin Room)"
+        "regular": "26000/person (3/4 person shared Room)",
+
+        "personal": "30000/person (Couple/twin Room)",
+        "luxurious": "450000/person (5 Star Hotel/Resort)"
       }
     ]
   },
   {
-    "id": "04",
     "img": "https://adarbepari.com/wp-content/uploads/2016/10/bali-indonesia-02.jpg",
     "price": 19999,
     "placeName": "Indonesia",
@@ -103,10 +95,9 @@
 
     "tour_cost": [
       {
-        "regular": "29900/person (3/4 person shared Room)"
-      },
-      {
-        "personal": "35000/person (Couple/twin Room)"
+        "regular": "29900/person (3/4 person shared Room)",
+        "personal": "35000/person (Couple/twin Room)",
+        "luxurious": "450000/person (5 Star Hotel/Resort)"
       }
     ],
 
