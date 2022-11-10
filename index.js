@@ -43,6 +43,19 @@ async function run() {
       const result = await reviewCollection.insertOne(review);
       res.send(result);
     });
+
+    app.get("/review", async (req, res) => {
+      let query = {};
+      console.log(req.query);
+      if (req.query.email) {
+        query = {
+          email: req.query.email,
+        };
+      }
+      const cursor = reviewCollection.find(query);
+      const orders = await cursor.toArray();
+      res.send(orders);
+    });
   } finally {
   }
 }
